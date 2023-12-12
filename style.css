@@ -1,13 +1,22 @@
 body {
+<<<<<<< HEAD
     width: 100px;
     margin: 30px;
     background-color: antiquewhite;
   }
 #profil-container {
+=======
+    width: 100%;
+    margin: 30px;
+    background-color: antiquewhite;
+}
+#profile-container {
+>>>>>>> development-1.0
     max-width: 300px;
     background-color: white;
     border: 1px solid gray;
     border-radius: 6px;
+<<<<<<< HEAD
   }
 #profil-image {
     width: 100%;
@@ -18,10 +27,26 @@ body {
   }
 
 #footer {
+=======
+}
+#profile-image {
+    width: 100%;
+    height: auto;
+}
+#profil-name {
+    text-align: center;
+}
+
+#header {
+>>>>>>> development-1.0
     width: 100px;
     height: 50px;
     line-height: 50px;
     background-color: burlywood;
     text-align: center;
     color: white;
+<<<<<<< HEAD
   }
+=======
+}
+>>>>>>> development-1.0
